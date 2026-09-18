@@ -6,6 +6,3 @@ __pycache__/
 
 # Jupyter temporary files
 .ipynb_checkpoints/
-
-# Project-generated data (keep only intentional source assets in Git)
-data/*.csv
